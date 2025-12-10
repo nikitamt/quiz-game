@@ -1,3 +1,5 @@
+#Quiz Game
+
 def separator():
     print("-" * 30)
 
